@@ -1,0 +1,17 @@
+<DOCTYPE html>
+<html lang= "pt-br">
+    <head>
+        <meta charset: "UTF-8">
+        <meta name = vierpoint content="width=divice-width, initial-scale=1.0">
+        <title>Meus Links Favoritos</title>
+    </head>
+    <body>
+        <h1>Meus links</h1> 
+        <ul>
+        <li><a hrfe = "https://www.youtube.com" target = "_blank"> <b>Site 1 - Youtube</b></a><li>
+        <li><a hrfe = "https://www.amazon.com.br" target = "_blank"> <b>Site 2 - Amazon</b></a><li>
+        <li><a hrfe = "https://venda.panini.com.br" target = "_blank"> <b>Site 3 - Panini</b></a><li>
+        </ul>
+
+    </body>
+</html>
